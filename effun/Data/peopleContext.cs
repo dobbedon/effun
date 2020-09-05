@@ -13,6 +13,6 @@ namespace effun.Data
         {
 
         }
-        public DbSet<person> Peopl { get; set; }
+        public DbSet<person> People { get; set; }
     }
 }
